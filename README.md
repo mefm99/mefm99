@@ -3,6 +3,6 @@
 
 - 🔭 I have a Bachelor's degree in **Software Engineering.**
 
-- 💬 I am focusing on**.NET related technologies**
+- 💬 I am focusing on **.NET related technologies**
 
 - 📫 How to reach me **mefm2699@gmail.com**
